@@ -1,0 +1,7 @@
+You can use this script to install ADB and fastboot tools to your machine
+
+Also it will add it to PATH so you can use the commands everywhere
+
+Thanks for reading this ;)
+
+- Lumi
