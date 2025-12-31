@@ -1,7 +1,26 @@
 ## ROM for A32 4G devices i guess...
 
 ### One UI 5 and 6
- * **A34 Port** 
+* **A34 Port (LumiROM)**
+    * **Author:** [Luminous | 418](https://Luminous418.t.me)
+    * Changelogs:
+    - Fixed camera
+        - Fixed QS
+        - Fixed boot
+        - Fixed bluetooth
+        - Fixed FOD
+        - Fixed a problem with brightness
+        - Fixed NFC
+        - Fixed phone blocking without touching it
+        - Fixed selinux problems
+        - Fixed jack 3.5 mm
+        - Fixed some other things
+        - Fixed SSRM (2.0)
+        * Fixed 64 MP Camera (2.0)
+        * Fixed Front camera
+    * **Download:** [[Google Drive]](https://drive.google.com/file/d/1m6ZvyqCSYJ2uKvqosah4IpKjp9Dase2h/view?usp=sharing) - link provided by [[iamemmaowo on Telegram]](https://iamemmaowo.t.me/)
+
+ * **A34 Port (Flame OS version)** 
     * **Author:** FlameOS Developer
     * **Features:**
         * Galaxy AI, Advanced Intelligence
@@ -124,3 +143,6 @@
         * Support Changing Camers Front / Back While Recording Videos 
         * Object Tracking AF and more
         * And other more hidden
+
+### One UI 7 & 8
+* LumiROM
