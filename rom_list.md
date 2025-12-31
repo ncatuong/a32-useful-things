@@ -155,7 +155,7 @@
         - Fixed permissive kernel, now all builds are enforcing for default
         - Fixed (at least tried) the anims on system, now should be smoother in general
         - Added DEX?
-    * **Download:** [[Not available :( sorry for abt that]]
+    * **Download:** [Not available :( sorry for abt that]
 * LumiROM v8
     * **Author:** [Luminous | 418](https://Luminous418.t.me)
     * **Features | Changelogs:**
@@ -173,6 +173,7 @@
         * Added new settings
         - Fixes: Lag on security settings, system sound, SSRM warning, clock selection on lockscreen, recent calls on phone app, Studio app
     * **Download:** [[Telegram]](https://t.me/lumiromgroup)
+<<<<<<< HEAD
 * A165F Port
     * **Author:** [@msan_vigus](https://msan_vigus.t.me/)
     * **Features | Changelogs:**
@@ -207,3 +208,6 @@
         * Modified things for heat and increase performance
         * More...
     * **Download:** [[Microsoft SharePoint]](https://1drv.ms/u/c/8bfe7276367b0130/EdEc1l6wG4NMuR7VJbRzuJ8B923eV0Cu3IMsc6rSqaphgg?e=bKHGvF)
+=======
+* 
+>>>>>>> 7ae9c725ed170914a176d446c6fcc44f5859fa4c
