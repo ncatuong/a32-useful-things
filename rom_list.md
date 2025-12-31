@@ -145,4 +145,32 @@
         * And other more hidden
 
 ### One UI 7 & 8
-* LumiROM
+* LumiROM v7
+    * **Author:** [Luminous | 418](https://Luminous418.t.me)
+    * **Features | Changelogs:**
+        * Very debloated
+        - Fully fixed camera, now enjoy all modes without any crash
+        - Fixed random reboots, no more annoying reboots
+        - Totally new way to install the ROM, more easy, less issues
+        - Fixed permissive kernel, now all builds are enforcing for default
+        - Fixed (at least tried) the anims on system, now should be smoother in general
+        - Added DEX?
+    * **Download:** [[Not available :( sorry for abt that]]
+* LumiROM v8
+    * **Author:** [Luminous | 418](https://Luminous418.t.me)
+    * **Features | Changelogs:**
+        * FOD (Fingerprint On Display)
+        * Galaxy AI
+        * NFC
+        * Basic features (Wi-Fi, Bluetooth, etc.)
+        * It boots
+        * Product, system_ext, odm and vendor partitions has been converted to EroFS
+        * New EroFS kernel for A32 and A22
+        * December Patch
+        * Removed FRP
+        * Added AI Weather on Lock screen
+        * Added AI Wallpaper
+        * Added new settings
+        - Fixes: Lag on security settings, system sound, SSRM warning, clock selection on lockscreen, recent calls on phone app, Studio app
+    * **Download:** [[Telegram]](https://t.me/lumiromgroup)
+* 
